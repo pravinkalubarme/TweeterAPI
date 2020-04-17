@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3067" started-at="2019-12-12T13:01:38 IST" finished-at="2019-12-12T13:01:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3067" started-at="2019-12-12T13:01:38 IST" finished-at="2019-12-12T13:01:41 IST">
+      <class name="Inn.Tweeter.ToTweet">
+        <test-method status="PASS" signature="toGetTweet()[pri:0, instance:Inn.Tweeter.ToTweet@6c49835d]" name="toGetTweet" duration-ms="3032" started-at="2019-12-12T13:01:38 IST" finished-at="2019-12-12T13:01:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toGetTweet -->
+      </class> <!-- Inn.Tweeter.ToTweet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
